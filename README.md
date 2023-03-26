@@ -1,4 +1,4 @@
-# ![https://kamblack66.github.io/portafolio/#home]![logo](https://user-images.githubusercontent.com/93850511/227753718-e3a1ef52-7af5-4069-824e-87bdece30600.png) Portfolio
+# ![https://kamblack66.github.io/portafolio/#home](https://user-images.githubusercontent.com/93850511/227753718-e3a1ef52-7af5-4069-824e-87bdece30600.png)Portfolio
 
 https://user-images.githubusercontent.com/93850511/227754237-6e581e18-f0f5-4910-917c-5c5e23a47881.mp4
 
